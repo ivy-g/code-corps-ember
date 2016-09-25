@@ -15,8 +15,6 @@
 /libpeerconnection.log
 npm-debug.log
 testem.log
-.vscodeignore
-jsconfig.json
 
 .env
 .env.deploy.staging
@@ -29,3 +27,6 @@ jsconfig.json
 .*swp
 .*swo
 .idea
+.vscodeignore
+jsconfig.json
+/typings/*
